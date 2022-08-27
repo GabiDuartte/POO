@@ -1,0 +1,1 @@
+Objetos de um Sistema de controle Acadêmico: Alunos, Matrículas, Cursos, Turmas, Professores, etc.

@@ -1,0 +1,3 @@
+4. Objetos Pessoa e Conta
+a) Sim, pois iria ser possível identificar o responsável pela conta.
+b) Sim, pois iria ser possível acessar todas as contas que uma determinada pessoa possui.

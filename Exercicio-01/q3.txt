@@ -1,0 +1,8 @@
+  Atributo                       Sistema
+  Peso                           IMC
+  Tipo de CNH                    Habilitação
+  Tipo Sanguíneo                 Transfusão de Sangue
+  Habilidade destra
+  Percentual de Gordura          Prescrição de Tratamento
+  Saldo em Conta                 Banco
+  Etnia                          Experimento Social

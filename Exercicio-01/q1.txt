@@ -1,0 +1,3 @@
+Diferença de objeto para classe: 
+Classe: Modelo para declarar e criar os objetos.
+Objeto: São instâncias de uma classe.

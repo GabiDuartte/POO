@@ -1,0 +1,7 @@
+Atributos: São considerados estruturas de dados responsáveis por representar uma classe.
+Métodos: São as ações que determinam o que um objeto de uma classe irá realizar.
+
+Exemplo de objeto que possui atributos e métodos:
+        Pessoas.
+-> Atributos: nome, idade, altura.
+-> Métodos: Pensar, andar, falar.
