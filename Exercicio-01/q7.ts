@@ -10,8 +10,8 @@ perimetro(): number{
 }
 
 let ret = new retangulo;
-ret.base = 10;
-ret.altura = 10;
+ret.base = 5;
+ret.altura = 5;
 
 console.log(ret.perimetro());
 
