@@ -1,3 +1,6 @@
+2. De forma breve, conceitue atributos e métodos. Pesquise e exemplifique um
+exemplo de objeto que possua atributos e métodos (notação livre).
+
 Atributos: São considerados estruturas de dados responsáveis por representar uma classe.
 Métodos: São as ações que determinam o que um objeto de uma classe irá realizar.
 
