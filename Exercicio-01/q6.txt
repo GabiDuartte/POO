@@ -1,5 +1,7 @@
 Objetos: vida, posição,  passos, largura, altura, criaturas, jogador.
+
 Atributos: nome, habilidade, nivel, dificuldade, mapa.
+
 Métodos: Mover para cima, mover para esquerda, mover para direita, mover para baixo, contar passos,
 avançar de nível, lutar com criaturas, contar quantidade de vidas, mostrar localização no mapa,
 coletar vidas, usar habilidades.
