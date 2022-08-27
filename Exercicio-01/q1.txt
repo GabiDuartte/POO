@@ -1,3 +1,7 @@
+1. Qual a diferença entre objetos e classes? Exemplifique.
+
 Diferença de objeto para classe: 
 Classe: Modelo para declarar e criar os objetos.
 Objeto: São instâncias de uma classe.
+Exemplo: Construir uma casa -> A planta seria a classe, no qual seria determinado o que os objetos podem ou não fazer
+-> A casa seria o objeto que instancia a classe, tendo características que podem ser alteradas
