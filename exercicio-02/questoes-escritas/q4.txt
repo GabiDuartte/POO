@@ -1,0 +1,2 @@
+4. Pesquise e exemplifique com um exemplo porque dizemos que a linguagem C, mesmo tendo tipagem estática, possui tipagem fraca.
+Resposta: A linguagem C possui tipagem fraca, pois é considerada um asssembly portável, além de possuir alguns tipos de dados que não são bem definidos, por exemplo, comumente um tipo qualquer pode ser tratado como string.

@@ -1,0 +1,2 @@
+1) Qual a diferença de tipagem dinâmica e tipagem estática?
+Respsta: Na tipagem dinamica o tipo é inferido pelo valor do dado e a checagem é feita em tempo de execução (runtime). Na tipagem estática o tipo é inferido pela variável e achecagem é feita na compilação, diminuindo a quantidade de erros em tempo de execução.
