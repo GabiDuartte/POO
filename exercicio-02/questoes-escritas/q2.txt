@@ -1,2 +1,3 @@
 2. Qual o principal problema do uso de tipagem dinâmica?
-Resposta: O principal problema do uso da tipagem dinâmica é o fato de não se saber exatemente identificar o que é uma variável, pois ela pode mudar a qualquer momento, além de poder levar a erros de tempo de execução (runtime).
+Resposta: O principal problema do uso da tipagem dinâmica é o fato de não se saber exatemente identificar o que é uma variável, 
+pois ela pode mudar a qualquer momento, além de poder levar a erros de tempo de execução (runtime).
