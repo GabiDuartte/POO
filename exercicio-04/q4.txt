@@ -1,0 +1,5 @@
+4. 
+a) Qual o resultado dos dois "prints"? Justifique sua resposta.
+Resposta: Todos os "prints" tiveram como resultado o valor 140.
+b) O que acontece com o objeto para o qual a referência c1 apontava?
+Resposta: O objeto recebe o valor de outro objeto.

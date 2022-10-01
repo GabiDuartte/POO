@@ -1,0 +1,6 @@
+3. Justifique o erro de compilação e proponha uma solução.
+
+Resposta: O erro ocorreu pois a expressão, let r: Radio = new Radio();, esperava receber algum argumento.
+Essa seria uma das resoluções para o problema: let r: Radio = new Radio(1);
+r.volume = 10;
+console.log(r.volume);
