@@ -1,4 +1,4 @@
-import { Conta } from "./banco";
+import { Conta } from "./conta";
 
 class Banco {
 	private _contas: Conta[] = [];
