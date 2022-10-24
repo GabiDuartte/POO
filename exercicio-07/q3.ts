@@ -1,3 +1,4 @@
+import {Calculadora} from "./q2";
 
 class CalculadoraEletronica extends Calculadora{
     constructor(op1: number, op2: number){
