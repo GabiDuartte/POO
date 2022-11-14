@@ -1,0 +1,1 @@
+Se uma classe que herda uma abstrata, mas não implementa seus métodos torna-se necessário o uso da interface

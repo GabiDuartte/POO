@@ -1,0 +1,1 @@
+Classes abstratas não podem ser instanciadas, pois são métodos que não possuem implementação.
