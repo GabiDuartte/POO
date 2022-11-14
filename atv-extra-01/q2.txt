@@ -1,0 +1,3 @@
+No primeiro exemplo de erro, o problema está no fato de não sabermos se a operação funciona direito ou não.
+No segundo exemplo de erro, o problema é devido ao fato de ficarmos atrelados à interface texto e se fosse utilizada a interface gráfica a mensagem não seria notada.
+No terceiro exemplo de erro, o problema ocorre pois o uso pode acontecer de o retorno seja diferente do esperado.
